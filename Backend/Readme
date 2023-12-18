@@ -1,0 +1,10 @@
+npm i express mongoose dotenv helmet morgan nodemon
+
+Express for server
+Mongoose for database
+dotenv for env variables
+Helmet for security
+Morgan for logs
+Nodemon for restarting
+
+
