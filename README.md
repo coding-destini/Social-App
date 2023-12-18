@@ -2,7 +2,6 @@
 🚀🚀🙌A Facebook clone project built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, allowing users to post, like, and comment on posts, view friends, change profile pictures and cover pictures, and much more!
 <div align="center">
 
-![home](https://github.com/coding-destini/MetaBook/assets/91196237/378b227d-f9cb-45bb-bbc9-4b79a3cc2949)
 
 </div>
 
@@ -19,37 +18,11 @@
 
 1. **User Profile:** Users can view their own profile, change profile pictures, and cover pictures.
 
-    Before !!! 
-   ![profile](https://github.com/coding-destini/MetaBook/assets/91196237/be137092-77ca-4a4f-81f6-6546b74734af)
-   
-   After !!!
-   ![changedProfileProof](https://github.com/coding-destini/MetaBook/assets/91196237/8e2d41e0-13d9-40da-b6c1-e628231b6184)
+2. **Timeline:** Users can post thoughts and view all posts on their timeline.
 
+3. **Friends:** Users can see their friends, and view their friends' profiles.
 
-3. **Timeline:** Users can post thoughts and view all posts on their timeline.
-
-   TimeLine Posts 
-   ![All Feeds](https://github.com/coding-destini/MetaBook/assets/91196237/259be612-c7c8-4288-92ca-8bbe5443f789)
-
-
-5. **Friends:** Users can see their friends, and view their friends' profiles.
-
-   User Friends's Profile 
-   ![checkAnotherProfile](https://github.com/coding-destini/MetaBook/assets/91196237/bc5d397f-6de6-4e36-a6ca-579402d56b96)
-   
-   User's All Friend
-   ![friends](https://github.com/coding-destini/MetaBook/assets/91196237/8f7215db-58f1-41b5-a914-e8833825c8ab)
-
-7. **Posts:** Users can create posts, like posts, and comment on posts.
-
-    Sharing Thoughts and Picture
-    ![sharePost](https://github.com/coding-destini/MetaBook/assets/91196237/1b0a65eb-58df-4f24-93c7-999bb420a6f0)
-   
-    Post Sucess 
-    ![proffPost](https://github.com/coding-destini/MetaBook/assets/91196237/855bbb3e-fa94-44c3-8314-cd202c83daad)
-   
-    Add Comments 
-    ![comments](https://github.com/coding-destini/MetaBook/assets/91196237/6761133b-a101-40f4-92e2-a368fc044753)
+4. **Posts:** Users can create posts, like posts, and comment on posts.
 
 
 ## 🛠️ Installation
